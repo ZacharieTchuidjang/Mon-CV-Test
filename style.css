@@ -1,0 +1,33 @@
+.entete{
+    text-align: center;
+
+}
+
+h2{
+    margin-bottom: 0px;
+}
+
+.titre{
+    border-bottom: solid;
+}
+
+.section, .section_list, .section_date{
+    margin-left: 27%;
+    margin-right: 27%;
+
+}
+.date_event{
+    margin-right: 10px;
+}
+.date_event_1{
+    padding-left: 20%;
+}
+
+.date{
+    display: flex;
+    margin-bottom: 10px;
+}
+
+body{
+    background-color:   #fefbfa ;
+}
